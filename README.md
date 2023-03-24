@@ -1,0 +1,2 @@
+# newideas
+Newest technical ideas
